@@ -2,9 +2,9 @@
 
     <style name="Theme.KotlinCalcApp" parent="Theme.AppCompat">
 
-        <item name="colorPrimary">@color/orange</item>
+        <item name="colorPrimary">#FFEB3B</item>
         <item name="colorPrimaryVariant">@color/black</item>
-        <item name="colorOnPrimary">@android:color/white</item>
+        <item name="colorOnPrimary">@color/white</item>
 
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
 

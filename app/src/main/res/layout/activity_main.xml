@@ -8,7 +8,7 @@
     android:orientation="vertical"
     tools:ignore="HardcodedText"
     tools:context=".MainActivity"
-    android:background="@color/grey">
+    android:background="@color/blue">
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="0dp"
@@ -187,7 +187,7 @@
             style="@style/buttonNumber"
             android:text="="
             android:layout_weight="2"
-            android:background="@color/orange"
+            android:background="@color/black"
             android:onClick="equalAction"
             />
 
